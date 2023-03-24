@@ -1,7 +1,5 @@
 #include<stdio.h>
 #include<Windows.h>
-#include<conio.h>
-#include<string.h>
 
 #define BoardSize 19
 
